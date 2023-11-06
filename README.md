@@ -29,3 +29,11 @@ Seorang yang senang dengan makanan makanan kekinian
 
 
 Seorang yang ingin atau sudah memiliki usaha
+
+User experience theme:
+Mudah
+Sederhana
+Menyenangkan
+Warna: ala suasana pagi / light blue / light yellow
+Inspirasi desain:
+
