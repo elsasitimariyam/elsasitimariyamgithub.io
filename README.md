@@ -30,10 +30,36 @@ Seorang yang senang dengan makanan makanan kekinian
 
 Seorang yang ingin atau sudah memiliki usaha
 
-User experience theme:
+#User experience theme:
+
+
 Mudah
+
+
 Sederhana
+
+
 Menyenangkan
+
+
 Warna: ala suasana pagi / light blue / light yellow
+
+
 Inspirasi desain:
+
+Analysis: User Story
+
+
+Sebagai|Saya ingin bisa|Sehingga|Prioritas
+
+
+Pengguna	Mengirim cuitan	Bisa mengekspresikan pikiran saya	⭐⭐⭐⭐⭐
+
+
+Pengguna	Melihat cuitan yang saya buat	Bisa mengingatkan, mengevaluasi dan mengambil hikmah	⭐⭐⭐⭐⭐
+Pengguna	Mencari pengguna lain	Memudahkan mengakses cuitan pengguna tersebut	⭐⭐⭐⭐
+Pengguna	Melihat cuitan dari pengguna lain	Bisa mengambil hikmah dan inspirasi	⭐⭐⭐⭐
+Pengguna	Membalas cuitan diri sendiri ataupun pengguna lain	Bisa memberi respon	⭐⭐⭐⭐⭐
+Pengguna	Mengikuti pengguna lain	Memudahkan mencari pengguna tersebut	⭐⭐⭐
+
 
