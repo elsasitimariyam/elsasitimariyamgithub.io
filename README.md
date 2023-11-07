@@ -3,7 +3,6 @@
 
 **Analysis: Branding**
 
-
 Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
 
 
