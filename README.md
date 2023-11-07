@@ -53,21 +53,42 @@ Analysis: User Story
 Sebagai|Saya ingin bisa|Sehingga|Prioritas
 
 
-Pengguna|Login ke aplikasi|Bisa melakukan jual beli	⭐⭐⭐⭐⭐
+Pengguna|Login ke aplikasi|Bisa melakukan jual beli|⭐⭐⭐⭐⭐
 
 
-Pengguna|Melihat beberapa makanan| 	Bisa melakukan pembelian	⭐⭐⭐⭐⭐
+Pengguna|Melihat menu makanan|Bisa melakukan pembelian|	⭐⭐⭐⭐⭐
 
 
-Pengguna|Mencari makanan yang diinginkan|Memudahkan memilih makanan	⭐⭐⭐⭐⭐
+Pengguna|Melihat pencarian menu|Bisa memudahkan mencari menu makanan berdasarkan nama atau jenis|	⭐⭐⭐⭐⭐
 
 
-Pengguna	Melihat cuitan dari pengguna lain	Bisa mengambil hikmah dan inspirasi	⭐⭐⭐⭐
+Pengguna|Melihat detail menu|Bisa mengklik menu makanan untuk melihat detail lebih lanjut|	⭐⭐⭐⭐⭐
 
 
-Pengguna	Membalas cuitan diri sendiri ataupun pengguna lain	Bisa memberi respon	⭐⭐⭐⭐⭐
+Pengguna|Menambahkan menu ke keranjang|Bisa menambahkan menu ke keranjang belanja dan melihat daftar menu|	⭐⭐⭐⭐⭐
 
 
-Pengguna	Mengikuti pengguna lain	Memudahkan mencari pengguna tersebut	⭐⭐⭐
+Pengguna|Melakukan pemesanan|Bisa memesan makanan|⭐⭐⭐⭐⭐
+
+
+Pengguna|Lokasi dan pengiriman|Bisa mengatur lokasi pengiriman|⭐⭐⭐⭐⭐
+
+
+Pengguna|Rincian pesanan|Bisa melihat rincian pesanan, termasuk total harga dan waktu pengiriman|	⭐⭐⭐⭐⭐
+
+
+Pengguna|Mengkonfirmasi pesanan|Bisa mengonfirmasi dan membayar makanan|	⭐⭐⭐⭐
+
+
+Pengguna|Pelacakan pesanan|Bisa melacak status pesanan mulai dari konfirmasi hingga pengiriman|	⭐⭐⭐⭐
+
+
+Pengguna|Ulasan dan penilaian|Bisa memberikan ulasan dan penilaian terhadap makanan dan layanan |	⭐⭐⭐⭐
+
+
+Pengguna|Pelacakan pesanan|Bisa melacak status pesanan|	⭐⭐⭐⭐
+
+
+
 
 
