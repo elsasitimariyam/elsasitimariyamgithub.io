@@ -1,4 +1,4 @@
-LATAR BELAKANG : Aplikasi ini adalah aplikasi bisnis khususnya untuk menjual makanan yang di buat untuk mempermudah seseorang membeli makanan, saya membuat aplikasi ini karena ingin membantu teman saya yang mempunyai usaha menjual makanan
+LATAR BELAKANG : Aplikasi ini adalah aplikasi bisnis khususnya untuk menjual makanan yang di buat untuk mempermudah seseorang jual beli makanan, saya membuat aplikasi ini karena ingin membantu teman saya yang mempunyai usaha menjual makanan
 
 
 Analysis: Branding
