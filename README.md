@@ -42,7 +42,7 @@ Sederhana
 Menyenangkan
 
 
-Warna: ala suasana pagi / light blue / light yellow
+Warna: 
 
 
 Inspirasi desain:
@@ -56,10 +56,10 @@ Sebagai|Saya ingin bisa|Sehingga|Prioritas
 Pengguna|Login ke aplikasi|Bisa melakukan jual beli	⭐⭐⭐⭐⭐
 
 
-Pengguna	Melihat cuitan yang saya buat	Bisa mengingatkan, mengevaluasi dan mengambil hikmah	⭐⭐⭐⭐⭐
+Pengguna|Melihat beberapa makanan| 	Bisa melakukan pembelian	⭐⭐⭐⭐⭐
 
 
-Pengguna	Mencari pengguna lain	Memudahkan mengakses cuitan pengguna tersebut	⭐⭐⭐⭐
+Pengguna|Mencari makanan yang diinginkan|Memudahkan memilih makanan	⭐⭐⭐⭐⭐
 
 
 Pengguna	Melihat cuitan dari pengguna lain	Bisa mengambil hikmah dan inspirasi	⭐⭐⭐⭐
