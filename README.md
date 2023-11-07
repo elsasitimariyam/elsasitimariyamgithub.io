@@ -68,10 +68,19 @@ Pengguna|Melihat detail menu|Bisa mengklik menu makanan untuk melihat detail leb
 Pengguna|Menambahkan menu ke keranjang|Bisa menambahkan menu ke keranjang belanja dan melihat daftar menu|	⭐⭐⭐⭐⭐
 
 
+Pengguna|Menghapus item menu|Bisa menghapus item menu bila ingin mengganti menu atau berubah pikiran|⭐⭐⭐⭐
+
+
+Pengguna|Mengedit jumlah menu|Bisa mengedit jumlah item menu seperti menambah atau mengurangi menu|⭐⭐⭐⭐
+
+
 Pengguna|Melakukan pemesanan|Bisa memesan makanan|⭐⭐⭐⭐⭐
 
 
 Pengguna|Lokasi dan pengiriman|Bisa mengatur lokasi pengiriman|⭐⭐⭐⭐⭐
+
+
+Pengguna|Melakukan Pembayaran|Bisa melakukan pembayaran via transfer atau langsung|⭐⭐⭐⭐⭐
 
 
 Pengguna|Rincian pesanan|Bisa melihat rincian pesanan, termasuk total harga dan waktu pengiriman|	⭐⭐⭐⭐⭐
