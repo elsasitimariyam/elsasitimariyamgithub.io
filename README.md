@@ -95,7 +95,7 @@ Pengguna|Pelacakan pesanan|Bisa melacak status pesanan mulai dari konfirmasi hin
 Pengguna|Ulasan dan penilaian|Bisa memberikan ulasan dan penilaian terhadap makanan dan layanan |	⭐⭐⭐⭐
 
 
-Pengguna|Pelacakan pesanan|Bisa melacak status pesanan|	⭐⭐⭐⭐
+
 
 
 
