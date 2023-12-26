@@ -68,6 +68,7 @@ Pengguna|Ulasan dan penilaian|Bisa memberikan ulasan dan penilaian terhadap maka
 
 # Design: Arsitektur Berbasis Client-Server
  
+![Picture1](https://github.com/elsasitimariyam/elsasitimariyamgithub.io/assets/144762238/d0fbf868-c4ab-41fd-b593-b93d4f1e2e9b)
 
 
 # Design: User Experience (UX) Design
